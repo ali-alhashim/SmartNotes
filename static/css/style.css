@@ -12,11 +12,3 @@ body
     list-style: none;
 }
 
-input, textarea
-{
-    width: 100%;
-    margin: 10px;
-
-    border-radius: 5px;
-    padding: 5px;
-}
